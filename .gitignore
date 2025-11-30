@@ -1,0 +1,23 @@
+/.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+.DS_Store
+.env
+*.sqlite3
+*.log
+/.cache/
+Thumbs.db
+/.ipynb_checkpoints/
+
+# Ignore system files
+desktop.ini
