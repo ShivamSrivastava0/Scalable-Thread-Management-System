@@ -225,7 +225,7 @@ curl -X POST http://127.0.0.1:5000/api/shutdown
 ```python
 from thread_pool import ScalableThreadPool, TaskPriority
 
-# Create pool with auto-detected worker count
+# Create pool with auto-detected worker 
 pool = ScalableThreadPool()
 
 # Or specify custom worker count
