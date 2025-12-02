@@ -354,6 +354,7 @@ Dashboard automatically refreshes every 2 seconds with latest data.
 - Task submission: < 1ms
 - Work stealing: < 5ms
 - Result retrieval: < 1ms (if completed)
+- Response-Time : less than 10 seconds
 
 ---
 
